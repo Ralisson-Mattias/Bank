@@ -1,0 +1,16 @@
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/bin/Debug/net5.0/Bank.pdb
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.pdb
+/home/mattias/Documentos/CursoDotNet/Examples/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
