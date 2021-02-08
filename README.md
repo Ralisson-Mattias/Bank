@@ -2,7 +2,7 @@
 Projeto desenvolvido no bootcamp LocalizaLabs .NET Developer, aplicação console simples apresentando os principais conceito de POO
 
 ## Instalação
-* Em seu terminal, utilize o comando `https://github.com/Ralisson-Mattias/Bank`
+* Em seu terminal, utilize o comando `git clone https://github.com/Ralisson-Mattias/Bank`
 * Você deve ter a versão mais recente do SDK .NET
 
 # Executando
